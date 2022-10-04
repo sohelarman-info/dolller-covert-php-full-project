@@ -1,0 +1,18 @@
+[10-Oct-2021 11:50:07 UTC] PHP Notice:  Undefined variable: lang in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 18
+[10-Oct-2021 11:50:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 18
+[10-Oct-2021 11:50:07 UTC] PHP Notice:  Undefined variable: db in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 22
+[10-Oct-2021 11:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 22
+[10-Oct-2021 11:50:25 UTC] PHP Notice:  Undefined variable: lang in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 18
+[10-Oct-2021 11:50:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 18
+[10-Oct-2021 11:50:25 UTC] PHP Notice:  Undefined variable: db in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 22
+[10-Oct-2021 11:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ajhagoxu/exc.ajharulislam.xyz/sources/homepage.php on line 22
+[17-Dec-2021 09:18:57 America/New_York] PHP Notice:  Undefined variable: lang in /home/payspwxa/public_html/sources/test.php on line 190
+[17-Dec-2021 09:18:59 America/New_York] PHP Notice:  Undefined variable: lang in /home/payspwxa/public_html/sources/test.php on line 190
+[17-Dec-2021 09:42:03 America/New_York] PHP Notice:  Undefined variable: lang in /home/payspwxa/public_html/sources/test.php on line 190
+[18-Dec-2021 11:50:08 America/New_York] PHP Notice:  Undefined variable: lang in /home/payspwxa/public_html/sources/test.php on line 190

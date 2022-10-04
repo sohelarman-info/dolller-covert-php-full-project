@@ -1,0 +1,6 @@
+[02-Aug-2021 01:59:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ajhagoxu/exc.ajharulislam.xyz/includes/functions.php on line 334
+[02-Aug-2021 01:59:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ajhagoxu/exc.ajharulislam.xyz/requests/bit_get_wallet_exchange_rate.php on line 19
+[02-Aug-2021 01:59:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ajhagoxu/exc.ajharulislam.xyz/includes/functions.php on line 319
+[27-Nov-2021 06:15:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/techcveb/exc1.techtuto.cyou/includes/functions.php on line 334
+[27-Nov-2021 06:15:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/techcveb/exc1.techtuto.cyou/requests/bit_get_wallet_exchange_rate.php on line 19
+[27-Nov-2021 06:15:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/techcveb/exc1.techtuto.cyou/includes/functions.php on line 319
